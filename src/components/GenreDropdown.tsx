@@ -1,4 +1,4 @@
-import { Genres } from "@/typings";
+import { Genres } from "../../typings";
 import {
   DropdownMenu,
   DropdownMenuTrigger,

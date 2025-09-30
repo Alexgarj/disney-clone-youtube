@@ -1,4 +1,4 @@
-import { Movie } from "@/typings"
+import { Movie } from "../../typings"
 import Image from "next/image"
 import getImagePath from "@/lib/getImagePath"
 

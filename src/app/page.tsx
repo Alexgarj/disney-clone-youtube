@@ -19,9 +19,9 @@ export default async function Home() {
          <MoviesCarousel movies= {upComingMovies}  title= 'Upcoming'
          isVertical/> 
         {<MoviesCarousel movies = {popularMovies}  title= 'Popular'
-        isVertical/>}
+        />}
         {<MoviesCarousel movies = {topRatedMovies}  title= 'Top Rated'
-        isVertical/>}
+        />}
       </div>
     </main>
   );
